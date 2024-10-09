@@ -37,12 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
-        sapiente ipsum dolorum dicta eaque cumque inventore molestias, beatae ea
-        quaerat alias accusamus voluptas autem! Alias odit voluptates in totam
-        vitae dignissimos minus eaque culpa unde tempore dolore aperiam
-        obcaecati voluptatum aliquam corrupti, suscipit accusamus! Odit unde
-        veniam dolorum ipsum doloribus.
+        As a dedicated front-end developer, I specialize in crafting responsive and user-friendly web and mobile applications using React.js, Next.js, and React Native. With experience in integrating RESTful APIs, leading app projects, and collaborating with cross-functional teams, I ensure high-quality project delivery. My focus is on building scalable, efficient solutions while continually refining my skills in modern web technologies such as Material UI, Tailwind CSS, and Firebase. I thrive in fast-paced environments, leveraging my problem-solving abilities and adaptability to deliver seamless digital experiences.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
