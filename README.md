@@ -11,7 +11,7 @@ I created this portfolio to use as my own but ended up doing something else enti
 
 ## Live Demo
 
-- Click [here](https://shaq-portfolio.netlify.app/) to view the live demo.
+- Click [here](https://manal-imran.vercel.app/) to view the live demo.
 
 - GitHub: [@manalimran-12](https://github.com/manalimran-12)
 - LinkedIn: [Manal Imran](https://www.linkedin.com/in/manal-imran-96bb72254/)
